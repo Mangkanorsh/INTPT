@@ -16,9 +16,6 @@ else:
         print("score must not exceed 50")
     else:
         exam = exam / 50 * 100
-
-
-
         grade = (assignment + quiz + labExercise + exam) /400 * 100
         print("\nAssignment: ",assignment)
         print("quiz: ",quiz)
