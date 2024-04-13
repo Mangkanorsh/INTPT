@@ -10,5 +10,3 @@ print(gender," is your gender")
 print("You are ", gender)
 print("Student Number is: ", studentNumber)
 print("\nThank you and good bye")
-
-
