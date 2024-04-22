@@ -13,7 +13,6 @@ for i in range(participants_quantity):
     else:
         legal.append(user_input)
 
-# Print the number of participants in each category
 print("Number of minors:", len(minor))
 print("Number of legal participants:", len(legal))
 print("Number of seniors:", len(senior))
